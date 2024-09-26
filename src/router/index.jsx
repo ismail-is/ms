@@ -46,7 +46,7 @@ export const router = createBrowserRouter([
 				element: <LayoutOne />,
 				children: [
 					{
-						path: "/",
+						path: "/ms",
 						element: <HomeOne />,
 					},
 					{
