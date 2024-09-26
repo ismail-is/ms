@@ -38,7 +38,7 @@ import TestimonialPage from "../page/utility/Testimonial.jsx";
 
 export const router = createBrowserRouter([
 	{
-		path: "/",
+		path: "/ms",
 		element: <Layout />,
 		children: [
 			{
